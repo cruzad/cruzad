@@ -1,0 +1,21 @@
+// File: resources.rc
+// Author: 
+// Project: CS215 Project 3 Spring 2016
+// Description of file contents:
+
+BACKGROUND_BMP BITMAP Background.bmp
+//AVATAR_WAV	WAVE Avatar.wav
+
+Dice1_BMP		BITMAP	Dice1.bmp
+Dice2_BMP		BITMAP	Dice2.bmp
+
+Dice3_BMP		BITMAP	Dice3.bmp
+
+Dice4_BMP		BITMAP	Dice4.bmp
+
+Dice5_BMP		BITMAP	Dice5.bmp
+
+Dice6_BMP		BITMAP	Dice6.bmp
+
+
+
